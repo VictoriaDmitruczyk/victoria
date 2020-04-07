@@ -20,14 +20,14 @@ return [
    		'validation' => [
    			'name' 		=>	'required',
    			'email'		=>	'required|email',
-   			'message'	=>	'required|min:20',
+   			'message'	=>	'required|min:1',
    		],
 
        // Validation messages
    		'validationMessages' => [
    			'required'	=> 'This field is required',
    			'email'		=> 'Given email address is incorrect',
-   			'min:20'	=> 'Enter more than 20 characters'
+   			'min:1'	=> 'Enter more than 1 character, come on lol...'
    		],
 
       // Email template
