@@ -24,8 +24,8 @@ window.Config = {
      */
     introStaticText: "I'm", // Static text
     introTypingTexts: [ // Set of texts to display in Typing Texts module
-        "Learning to Impact Billions",
-        "a Global Sustainability Enthusiast",
+        "Cultivating Insect Meat for Protein",
+        "Constantly Learning",
         "Getting my AI on..."
     ],
 
